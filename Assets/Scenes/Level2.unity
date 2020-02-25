@@ -198,6 +198,11 @@ PrefabInstance:
       propertyPath: vitDectement
       value: 1.6
       objectReference: {fileID: 0}
+    - target: {fileID: 917882719235444143, guid: 2d160895f051aeb46b392d5e8aaf6758,
+        type: 3}
+      propertyPath: levelManager
+      value: 
+      objectReference: {fileID: 1479768918}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d160895f051aeb46b392d5e8aaf6758, type: 3}
 --- !u!1 &176256690
@@ -334,6 +339,11 @@ PrefabInstance:
       propertyPath: vitDectement
       value: 1.6
       objectReference: {fileID: 0}
+    - target: {fileID: 917882719235444143, guid: 2d160895f051aeb46b392d5e8aaf6758,
+        type: 3}
+      propertyPath: levelManager
+      value: 
+      objectReference: {fileID: 1479768918}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d160895f051aeb46b392d5e8aaf6758, type: 3}
 --- !u!1001 &657173405
@@ -531,6 +541,11 @@ PrefabInstance:
       propertyPath: vitDectement
       value: 1.6
       objectReference: {fileID: 0}
+    - target: {fileID: 917882719235444143, guid: 2d160895f051aeb46b392d5e8aaf6758,
+        type: 3}
+      propertyPath: levelManager
+      value: 
+      objectReference: {fileID: 1479768918}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d160895f051aeb46b392d5e8aaf6758, type: 3}
 --- !u!1 &1463296217
@@ -674,6 +689,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6765621c24ac02c4886065d397fb4bf9, type: 3}
+--- !u!114 &1479768918 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 998496674529410338, guid: 6765621c24ac02c4886065d397fb4bf9,
+    type: 3}
+  m_PrefabInstance: {fileID: 1479768917}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c76cc96c73313c547b2af99fa0e7b318, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1929774427
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -751,6 +778,11 @@ PrefabInstance:
       propertyPath: vitDectement
       value: 1.8
       objectReference: {fileID: 0}
+    - target: {fileID: 917882719235444143, guid: 2d160895f051aeb46b392d5e8aaf6758,
+        type: 3}
+      propertyPath: levelManager
+      value: 
+      objectReference: {fileID: 1479768918}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d160895f051aeb46b392d5e8aaf6758, type: 3}
 --- !u!1 &2046336500
